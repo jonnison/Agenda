@@ -1,0 +1,7 @@
+test.*
+stacktrace.log
+TODO
+target/
+test/selenium
+test/reports
+*.war
